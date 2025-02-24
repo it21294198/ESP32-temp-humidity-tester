@@ -3,7 +3,7 @@
 #include "DHT.h"
 
 // Pin where the DHT sensor is connected
-#define DHTPIN 12
+#define DHTPIN 2
 // DHT11(Blue color) or DHT22(White color) sensor
 #define DHTTYPE DHT11
 
