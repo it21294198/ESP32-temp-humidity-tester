@@ -16,3 +16,6 @@
     node index.js
     ```
 4. Follow ESP32 setup with this [Click Here](https://youtu.be/14LhUS1osYg?si=52WouakKIHm-y0Br)
+
+5. System view
+   ![System view](./Test/esp32-wifi-server.png)
